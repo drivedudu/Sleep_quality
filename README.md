@@ -35,7 +35,7 @@ Let's explore how sleep practices and emotional factors interact.
 ## Project Description
 Data was collected between June and September 2020.
 
-This project analyzes the influence of maternal mental health on infant sleep quality. Using data on sleep methods, anxiety, PTSD, and postpartum depression symptoms, we investigate the prevalence of emotional disorders in mothers and their impact on infant sleep. The analysis includes identifying percentages of mothers with different mental health conditions and the distribution of sleep methods, providing valuable insights for health interventions.
+This project analyzes the influence of maternal mental health on infant sleep quality. Using data on sleep methods, anxiety, stress, and postpartum depression symptoms, we investigate the prevalence of emotional disorders in mothers and their impact on infant sleep. The analysis includes identifying percentages of mothers with different mental health conditions and the distribution of sleep methods, providing valuable insights for health interventions.
 
 -- **Columns and Descriptions**
 
