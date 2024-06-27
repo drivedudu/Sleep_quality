@@ -1,0 +1,6 @@
+color1;HEX#9e6fd5
+color2;HEX#ff994e
+color3;HEX#666666
+color4;HEX#c83d95
+color5;HEX#3049ad
+color6;HEX#b6b0ff
