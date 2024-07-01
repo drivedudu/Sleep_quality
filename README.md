@@ -12,9 +12,11 @@ Eduardo da Silva
 
 # Analysis of Infant Sleep Quality.
 
-This project is a part of the bootcamp at [Ironhack](https://ironhack.com/).  
-My Dashboard - Tableau [link](https://public.tableau.com/app/profile/edu.mai/viz/tableau_17195168399390/Dashboard1?publish=yes)
-My Dashboard - PowerBi [link](https://github.com/drivedudu/Sleep_quality/blob/main/powerbi-tableau%20files/sleepdata-powerbi-pdf.pdf)
+This project is a part of the bootcamp at [Ironhack](https://ironhack.com/).
+
+**My Dashboard**- Tableau [link](https://public.tableau.com/app/profile/edu.mai/viz/tableau_17195168399390/Dashboard1?publish=yes)
+
+**My Dashboard** - PowerBi [link](https://github.com/drivedudu/Sleep_quality/blob/main/powerbi-tableau%20files/sleepdata-powerbi-pdf.pdf)
 
 #### -- Project Status: [Completed]
 
