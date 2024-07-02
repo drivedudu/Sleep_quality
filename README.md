@@ -16,7 +16,7 @@ This project is a part of the bootcamp at [Ironhack](https://ironhack.com/).
 
 **My Dashboard**- Tableau [link](https://public.tableau.com/app/profile/edu.mai/viz/tableau_17195168399390/Dashboard1?publish=yes)
 
-**My Dashboard** - PowerBi [link](https://github.com/drivedudu/Sleep_quality/blob/main/powerbi-tableau%20files/sleepdata-powerbi-pdf.pdf)
+**My Dashboard** - PowerBi [link](https://1drv.ms/b/s!An55OZKaiQdVt11t1SgA2kV42r0j?e=kUOfK5)
 
 #### -- Project Status: [Completed]
 
@@ -129,7 +129,7 @@ The analysis revealed that maternal mental health, particularly high levels of a
 
 * [Kaggle database](https://www.kaggle.com/datasets/thedevastator/impact-of-maternal-mental-health-on-infant-sleep)
 * [additional info ](https://www.mdpi.com/2075-4418/12/7/1625)
-* [Presentation](https://github.com/drivedudu/Sleep_quality/blob/main/powerbi-tableau%20files/powerpoint.pdf)
+* [Presentation](https://1drv.ms/b/s!An55OZKaiQdVt1yt-8V_k0voVUph?e=t6EGDx)
 
 
 
